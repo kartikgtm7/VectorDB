@@ -6,6 +6,11 @@ A high-performance **Vector Database** built in C++ implementing **HNSW**, **KD-
 
 ---
 
+## 📸 Demo
+
+### 🔍 Search & Visualization
+![Demo](demo.png)
+
 ## ⭐ Key Highlights
 
 * Implemented **HNSW (Hierarchical Navigable Small World)** from scratch for efficient approximate nearest neighbor search
